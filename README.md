@@ -1,5 +1,3 @@
-https://administrador-de-stock-perro-sasha-vivi-cris.000webhostapp.com/
-![Captura de pantalla (3745)](https://user-images.githubusercontent.com/104391221/195931322-08fa72ec-caeb-45eb-898f-e4adc2a2d116.png)
-![Captura de pantalla (3748)](https://user-images.githubusercontent.com/104391221/195931326-b81af814-199b-4aba-bf02-3715ea709a89.png)
-![Captura de pantalla (3749)](https://user-images.githubusercontent.com/104391221/195931328-c11e8c5a-bd66-4bed-ad2d-effdc0f8bb9e.png)
-![Captura de pantalla (3751)](https://user-images.githubusercontent.com/104391221/195931333-3211cff7-4975-4396-8a63-f38006adc7d7.png)
+http://administradorstock.wnpower.host/
+![im2 b9f1a1fd7342a79f011f](https://user-images.githubusercontent.com/104391221/199835650-bda10d7b-22e6-4d40-8a23-26d8a09f2507.png)
+![im1 2115093b906b82e496bf](https://user-images.githubusercontent.com/104391221/199835656-384a1517-1ec9-4218-95a9-7c2a5d17500e.png)
